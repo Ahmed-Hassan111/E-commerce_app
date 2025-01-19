@@ -1,0 +1,913 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OnlineShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineShop.3sst9qquo2.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\css\\font.awesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font.awesome.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\css\\style",
+      "PackagePath": "staticwebassets\\assets\\css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\css\\style.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\css\\vendor\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\css\\vendor\\vendor.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\vendor.min.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\bg-ba2\\bg1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-ba2\\bg1.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\bg-ba2\\bg2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-ba2\\bg2.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\bg-ba2\\bg3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-ba2\\bg3.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\bg-ba2\\bg4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-ba2\\bg4.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog1.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog2.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog3.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog4.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog5.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog6.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog7.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog8.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\blog\\blog9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog9.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\blog\\blogbig.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blogbig.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\blog\\comment2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comment2.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\blog\\post-comment1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\post-comment1.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\blog\\post-comment2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\post-comment2.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\blog\\related1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\related1.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\blog\\related2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\related2.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\icon\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\logo\\Icon metro-list.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\Icon metro-list.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\logo\\Icon open-grid-three-up.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\Icon open-grid-three-up.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\instagram1.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\instagram2.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\instagram3.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\instagram4.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\instagram5.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\instagram6.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\instagram7.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\others\\instagram8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\instagram8.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\paypal.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\paypal.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\product-ba1\\banner1\\product2.jpg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product-ba1\\banner1\\product2.jpg.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\product-ba1\\banner1\\product3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-ba1\\banner1\\product3.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\product-ba1\\banner1\\product5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-ba1\\banner1\\product5.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\product-ba1\\banner1\\product6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-ba1\\banner1\\product6.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\product-ba1\\banner1\\product7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-ba1\\banner1\\product7.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\product-ba1\\banner1\\product8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-ba1\\banner1\\product8.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\product-ba1\\banner2\\aad0ef5a-1a75-49a3-8605-fc729f6d6ddc-Photoroom(1).png",
+      "PackagePath": "staticwebassets\\assets\\img\\product-ba1\\banner2\\aad0ef5a-1a75-49a3-8605-fc729f6d6ddc-Photoroom(1).png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\product-ba1\\banner2\\rsz_99f4ce96-5e5c-4b65-a492-1a568303015b-photoroom.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product-ba1\\banner2\\rsz_99f4ce96-5e5c-4b65-a492-1a568303015b-photoroom.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\product-ba1\\big-product\\product1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product-ba1\\big-product\\product1.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\product-ba1\\product1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-ba1\\product1.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\product-ba1\\product4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-ba1\\product4.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\product-ba1\\small-product\\product1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product-ba1\\small-product\\product1.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\product-ba1\\small-product\\product2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product-ba1\\small-product\\product2.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\product-ba1\\small-product\\product3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product-ba1\\small-product\\product3.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\product-ba1\\small-product\\product4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product-ba1\\small-product\\product4.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\1.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\slider\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\10.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\2.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\3.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\slider\\38507(1).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\38507(1).jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\slider\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\4.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\slider\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\5.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\slider\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\7.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\slider\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\8.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\slider\\99f4ce96-5e5c-4b65-a492-1a568303015b-Photoroom.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\99f4ce96-5e5c-4b65-a492-1a568303015b-Photoroom.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\slider\\Mobile-Ecommerce-App-01-1-Photoroom.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\Mobile-Ecommerce-App-01-1-Photoroom.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\slider\\Mobile-Ecommerce-App-01-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\Mobile-Ecommerce-App-01-1.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\slider\\aad0ef5a-1a75-49a3-8605-fc729f6d6ddc-Photoroom.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\aad0ef5a-1a75-49a3-8605-fc729f6d6ddc-Photoroom.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\slider\\d3a66e6e-d21e-4606-88a6-662a6d719656-Photoroom.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\d3a66e6e-d21e-4606-88a6-662a6d719656-Photoroom.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\img\\slider\\slider1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider1.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\js\\images-loaded.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\images-loaded.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\js\\jquery.instagramFeed.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.instagramFeed.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\js\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\js\\jquery.scrollup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.scrollup.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\js\\mailchimp-ajax.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mailchimp-ajax.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\js\\tippy-bundle.umd.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tippy-bundle.umd.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\js\\vendor\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\js\\vendor\\modernizr-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.7.1.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\js\\vendor\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\popper.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\js\\vendor\\vendor.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\vendor.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\mail.php",
+      "PackagePath": "staticwebassets\\assets\\mail.php"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_common.scss"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\scss\\_variabls.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_variabls.scss"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\scss\\section\\_banner.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\section\\_banner.scss"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\scss\\section\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\section\\_blog-details.scss"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\scss\\section\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\section\\_blog.scss"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\scss\\section\\_cart-page.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\section\\_cart-page.scss"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\scss\\section\\_checkout.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\section\\_checkout.scss"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\scss\\section\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\section\\_footer.scss"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\scss\\section\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\section\\_header.scss"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\scss\\section\\_other.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\section\\_other.scss"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\scss\\section\\_product-details.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\section\\_product-details.scss"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\scss\\section\\_product.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\section\\_product.scss"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\scss\\section\\_quick-view.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\section\\_quick-view.scss"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\scss\\section\\_shop.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\section\\_shop.scss"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\scss\\section\\_slider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\section\\_slider.scss"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\blog-details.html",
+      "PackagePath": "staticwebassets\\blog-details.html"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\blog.html",
+      "PackagePath": "staticwebassets\\blog.html"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\cart.html",
+      "PackagePath": "staticwebassets\\cart.html"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\checkout.html",
+      "PackagePath": "staticwebassets\\checkout.html"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\8512568b-0625-44a9-bced-a6397e90fc4e.png",
+      "PackagePath": "staticwebassets\\images\\8512568b-0625-44a9-bced-a6397e90fc4e.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\00ac7f94-0e4d-4ede-a7ab-c0da24feae94.png",
+      "PackagePath": "staticwebassets\\images\\banners\\00ac7f94-0e4d-4ede-a7ab-c0da24feae94.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\0b967440-04f4-4b51-8d34-168bc51ac4bb.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\0b967440-04f4-4b51-8d34-168bc51ac4bb.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\0c5fe6ba-1e56-48ce-9ad6-028728d8495a.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\0c5fe6ba-1e56-48ce-9ad6-028728d8495a.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\0cc6109f-000c-46d0-b914-209ba3307eb3.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\0cc6109f-000c-46d0-b914-209ba3307eb3.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\2213da80-bcef-43ed-ba08-55aa36ed0193.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\2213da80-bcef-43ed-ba08-55aa36ed0193.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\28ff7248-0182-442e-ad86-7167f0effdde.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\28ff7248-0182-442e-ad86-7167f0effdde.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\323ddcae-5115-48e0-b6ef-ffbdde4d1248.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\323ddcae-5115-48e0-b6ef-ffbdde4d1248.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\43878d1e-ce26-43c5-a8b3-f5fcb965d1f7.png",
+      "PackagePath": "staticwebassets\\images\\banners\\43878d1e-ce26-43c5-a8b3-f5fcb965d1f7.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\57bab2c2-d591-459e-a823-90b7ae2ccada.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\57bab2c2-d591-459e-a823-90b7ae2ccada.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\70d6723d-a9b8-4f58-999c-7e8bb4d32486.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\70d6723d-a9b8-4f58-999c-7e8bb4d32486.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\724301b8-d90e-4649-a9b0-da704c5f128e.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\724301b8-d90e-4649-a9b0-da704c5f128e.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\7e4e7124-5b42-4c74-b7e8-ea9d8d7fab7b.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\7e4e7124-5b42-4c74-b7e8-ea9d8d7fab7b.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\7f45c2ef-fa27-43e1-b78d-9c346be45db2.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\7f45c2ef-fa27-43e1-b78d-9c346be45db2.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\8e2fe11e-3c0d-4d44-8610-b0e41f208bad.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\8e2fe11e-3c0d-4d44-8610-b0e41f208bad.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\91282baf-93b5-4b06-9e9c-ccd8673818ed.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\91282baf-93b5-4b06-9e9c-ccd8673818ed.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\9f992e2e-40f5-476d-b09f-de9e65d473cf.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\9f992e2e-40f5-476d-b09f-de9e65d473cf.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\aa13904e-cb34-4c65-bc31-bc089123b81d.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\aa13904e-cb34-4c65-bc31-bc089123b81d.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\afab1851-4e9e-4aad-a50b-35cc87eb9a82.png",
+      "PackagePath": "staticwebassets\\images\\banners\\afab1851-4e9e-4aad-a50b-35cc87eb9a82.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\b4f11fb3-3de7-4a1f-8e1c-751cdc6b50f3.png",
+      "PackagePath": "staticwebassets\\images\\banners\\b4f11fb3-3de7-4a1f-8e1c-751cdc6b50f3.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\bc5c01fc-03de-4849-9bc5-81fb9eeb3312.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\bc5c01fc-03de-4849-9bc5-81fb9eeb3312.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\bg1.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\bg1.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\bg2.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\bg2.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\bg3.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\bg3.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\bg4.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\bg4.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\c4beb1e0-5d29-4a70-8f24-23f6b436694e.png",
+      "PackagePath": "staticwebassets\\images\\banners\\c4beb1e0-5d29-4a70-8f24-23f6b436694e.png"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\ddee8d93-4595-48bd-8a3a-2a2eb2360e32.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\ddee8d93-4595-48bd-8a3a-2a2eb2360e32.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\banners\\shop_bg.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\shop_bg.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\images\\file.jpg",
+      "PackagePath": "staticwebassets\\images\\file.jpg"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\link.txt",
+      "PackagePath": "staticwebassets\\link.txt"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\product-details.html",
+      "PackagePath": "staticwebassets\\product-details.html"
+    },
+    {
+      "Id": "E:\\e-commerece\\OnlineShopSn\\OnlineShop\\wwwroot\\shop.html",
+      "PackagePath": "staticwebassets\\shop.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlineShop.props",
+      "PackagePath": "build\\OnlineShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineShop.props",
+      "PackagePath": "buildMultiTargeting\\OnlineShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineShop.props",
+      "PackagePath": "buildTransitive\\OnlineShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
